@@ -15,5 +15,6 @@ https://scrimba.com/learn/learnjavascript
 
 https://scrimba.com/learn/learnreact
 
+https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA/videos
 
 
